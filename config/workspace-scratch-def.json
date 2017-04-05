@@ -1,0 +1,10 @@
+{
+  "Company": "DreamHouse",
+  "Country": "US",
+  "LastName": "Corbel",
+  "Email": "scorbel@salesforce.com",
+  "Edition": "Developer",
+  "OrgPreferences" : {
+    "S1DesktopEnabled" : true
+  }
+}
